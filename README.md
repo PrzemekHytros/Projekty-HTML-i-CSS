@@ -1,2 +1,1 @@
-# Projekty-HTML-i-CSS
-projekty podczas nauki
+# Portfolio-2023
